@@ -9,6 +9,7 @@
       padding: $gap-1;
       div,
       article {
+        margin-top: 50px;
         width: 50%;
         @include responsive-desktop {
           width: 100%;

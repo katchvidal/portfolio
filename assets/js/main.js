@@ -9,33 +9,54 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem baseada em marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web"
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML."
+  "CSS son hojas de estilo en cascada. CSS es un lenguaje que complementa y formatea HTML"
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma."
+  "JavaScript es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web"
 );
 hoverChangeDescription(
   ".sass",
-  "Sass (pré-processador css) é uma linguagem de folhas de estilo. É uma simples linguagem de script usada em arquivos Sass."
+  "Sass Un preprocesador CSS es una herramienta que nos permite generar, de manera automática, hojas de estilo, añadiéndoles características que no tiene CSS"
 );
 hoverChangeDescription(
   ".react",
-  "ReactJS é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
+  "React es Una biblioteca de JavaScript para construir interfaces de usuario."
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "NextJS, según su definición, es un pequeño framework que hace server-rendering de aplicaciones basadas en JavaScript."
 );
 hoverChangeDescription(
   ".styled",
-  "Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "Styled Components es una alternativa de mejorar CSS para diseñar componentes en React."
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework desenvolvido para maximizar o potencial do bom e velho CSS e levá-lo ainda mais longe."
+  "Tailwind es un framework CSS que da prioridad a la utilidad sobre el propio estilo"
 );
+hoverChangeDescription(
+  ".typescript",
+  "Typescript superset de javascript"
+);
+hoverChangeDescription(
+  ".redux",
+  "Redux superset de javascript"
+);
+hoverChangeDescription(
+  ".angular",
+  "Angular superset de javascript"
+);
+hoverChangeDescription(
+  ".apollo",
+  "Apollo-Graphql superset de javascript"
+);
+hoverChangeDescription(
+  ".nodejs",
+  "NodeJs superset de javascript"
+);
+

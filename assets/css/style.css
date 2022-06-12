@@ -97,6 +97,10 @@ header .grid-layout nav {
   height: 8vh;
   padding: 0px 8px;
 }
+header .grid-layout nav img {
+  height: 50px;
+
+}
 
 header .grid-layout nav img {
   width: 150px;
