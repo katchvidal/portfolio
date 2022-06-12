@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katchvidal/portfolio.git",
+  "author": "Katch Vidal <katchvidal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
