@@ -2,6 +2,9 @@
   "name": "portfolio",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "deploy"  : "gh-pages -d ."
+  },
   "repository": "https://github.com/katchvidal/portfolio.git",
   "author": "Katch Vidal <katchvidal@gmail.com>",
   "license": "MIT",

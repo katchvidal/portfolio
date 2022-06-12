@@ -31,6 +31,24 @@ Para el desarrollo de este proyecto se utilizaron las siguientes tecnologias:
 
 ---
 
+##  Deploy
+- Follow the next stepts to deploy using github pages
+```
+  $ yarn add gh-pages
+
+```
+- Luego en el script del packages json write the next script
+```
+  scripts : {
+    "deploy" : "gh-pages -d ."
+  }
+```
+
+- Luego Ejecuta CLI
+```
+  - $ yarn run deploy 
+```
+
 <h2>🦄 Autor</h2>
 
 <table>
